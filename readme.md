@@ -7,7 +7,7 @@
 
 ###
 
-Я разработчик на ruby on rails
+Я будущий разработчик на ruby on rails
 
 Skills: RUBY / HTML / CSS
 
