@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/kasalava/kasalava/blob/main/dance-tom-loki.gifraw=true)"  />
+  <img height="300" width="600" src="https://github.com/kasalava/kasalava/blob/main/dance-tom-loki.gif"  />
 </div>
 
 ###
