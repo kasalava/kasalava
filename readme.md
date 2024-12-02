@@ -14,11 +14,9 @@ Skills: RUBY / HTML / CSS
 - 🔭 Я еще работаю над этой страницей...
 
 ###
-
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
-
 ###
  
 
