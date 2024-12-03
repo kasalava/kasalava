@@ -9,10 +9,6 @@
 
 Я будущий разработчик на ruby on rails
 
-Skills: RUBY / HTML / CSS
-
-- 🔭 Я еще работаю над этой страницей...
-
 - ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -23,8 +19,9 @@ Skills: RUBY / HTML / CSS
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Ruby on Rails" **alt="Ruby on Rails" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-
 </p>
+
+-  Я еще работаю над этой страницей...
 
 
  
