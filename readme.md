@@ -21,7 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasalava&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 -  Я еще работаю над этой страницей...
 
 
