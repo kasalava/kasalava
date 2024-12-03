@@ -19,6 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Ruby on Rails" **alt="Ruby on Rails" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </p>
 
 -  Я еще работаю над этой страницей...
