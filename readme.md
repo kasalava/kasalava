@@ -7,8 +7,6 @@
 
 ###
 
-Я будущий разработчик на ruby on rails
-
 - ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
