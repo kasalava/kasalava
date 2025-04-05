@@ -25,6 +25,7 @@
   
 </p>
 
+[![kasalava GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasalava&count_private=true&show_icons=true&theme=buefy)](https://github.com/kasalava)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kasalava)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasalava)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
