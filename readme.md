@@ -25,9 +25,8 @@
   
 </p>
 
-align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasalava&layout=compact&theme=buefy" />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kasalava)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasalava)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
