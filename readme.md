@@ -1,6 +1,6 @@
-<h1 align="center">Привет👋, меня зовут Антон </a> 
+<h1 align="center">Привет, меня зовут Антон </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 учусь </h3>
+<h3></h3> учусь </h3>
 
 <div align="center">
   <img height="300" width="600" src="https://github.com/kasalava/kasalava/blob/main/dance-tom-loki.gif"  />
